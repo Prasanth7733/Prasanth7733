@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prasanth Babu!  
 
-Welcome to my GitHub profile! I'm a passionate **Data Analyst** with a strong foundation in **data analytics** and **machine learning**, eager to transform raw data into actionable insights.  
+Welcome to my GitHub profile! I am a dedicated **Data Analyst** with expertise in **data analytics** and **machine learning**, committed to transforming complex datasets into meaningful insights that drive informed decision-making. With a strong analytical foundation and a problem-solving mindset, I strive to deliver impactful solutions that bridge the gap between data and business objectives.
 
 ---
 
@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate **Data Analyst** with a strong fo
   - Leveraged **Convolutional Neural Networks (CNNs)** for high accuracy.  
   - Preprocessed image datasets to improve model performance.  
   - Deployed the model using Flask for real-time prediction.  
-- **[Explore the Repository](#)**  
+- **[Explore the Repository](https://github.com/Prasanth7733/Plant-Disease-Detection)**  
 
 ---
 
@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate **Data Analyst** with a strong fo
   - Created reusable scripts to preprocess data, train models, and generate predictions.  
   - Integrated tools like **Flask** and **Docker** for deployment.  
   - Enhanced workflow efficiency for quick iterations.  
-- **[Explore the Repository](#)**  
+- **[Explore the Repository](https://github.com/Prasanth7733/Automate-ML-model)**  
 
 ---
 
@@ -38,25 +38,15 @@ Welcome to my GitHub profile! I'm a passionate **Data Analyst** with a strong fo
   - Conducted exploratory data analysis (EDA) using **Python (pandas, matplotlib, seaborn)**.  
   - Created a visually appealing dashboard in **Power BI** for decision-makers.  
   - Identified content strategies that performed well across regions.  
-- **[Explore the Repository](#)**  
-
----
-
-### 🚛 [Blinkit Dashboard Analysis](#)  
-- **Objective**: Built a dashboard to track and analyze Blinkit’s delivery performance and user metrics.  
-- **Highlights**:  
-  - Used **SQL** to extract and transform data from a relational database.  
-  - Visualized KPIs (delivery times, order volumes, user satisfaction) using **Tableau**.  
-  - Delivered actionable insights to optimize delivery operations.  
-- **[Explore the Repository](#)**  
+- **[Explore the Repository](https://github.com/Prasanth7733/Netflix-Data-Analysis)**  
+  
 
 ---
 
 ### 📦 [More Projects](#)  
-Check out other exciting projects, such as:  
-- **[Sales Analysis with Tableau](#)**  
-- **[Customer Segmentation using K-Means](#)**  
-- **[Stock Price Prediction with LSTMs](#)**  
+Check out other exciting projects 
+- **[More Projects](https://github.com/Prasanth7733)**  
+
 
 ---
 
@@ -64,17 +54,12 @@ Check out other exciting projects, such as:
 - 📈 Master advanced **machine learning algorithms** and **statistical techniques**.  
 - 🤝 Collaborate on open-source projects and contribute to impactful data solutions.  
 
----
-
-## ⚡ Fun Facts  
-- 🏏 I love playing cricket and consider it a great way to unwind.  
-- 📖 Enjoy reading stories and solving puzzles that challenge my mind.  
 
 ---
 
 ## 📫 Let's Connect  
-- 📧 Email: [your_email@example.com](mailto:your_email@example.com)  
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
+- 📧 Email: [My Email](prasanthbabu7733@gmail.com)  
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/prasanth-babu-493355278/)  
 - 🌐 Portfolio: [Your Portfolio Link]  
 
 ---
