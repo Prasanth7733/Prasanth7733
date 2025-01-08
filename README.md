@@ -12,25 +12,51 @@ Welcome to my GitHub profile! I'm a passionate **Data Analyst** with a strong fo
 
 ---
 
-## 💻 Projects I've Worked On  
+### 🌿 [Plant Disease Detection](#)  
+- **Objective**: Developed a deep learning model to identify diseases in plant leaves using image classification.  
+- **Highlights**:  
+  - Leveraged **Convolutional Neural Networks (CNNs)** for high accuracy.  
+  - Preprocessed image datasets to improve model performance.  
+  - Deployed the model using Flask for real-time prediction.  
+- **[Explore the Repository](#)**  
 
-### 1. 🌿 **Plant Disease Detection**  
-- Developed a deep learning model to detect plant diseases using image data.  
-- Achieved high accuracy by fine-tuning Convolutional Neural Networks (CNNs).  
+---
 
-### 2. 🤖 **Automate ML Model Deployment**  
-- Automated the process of training and deploying machine learning models using Python.  
-- Streamlined workflows with tools like Flask and Docker.  
+### 🤖 [Automate ML Model Deployment](#)  
+- **Objective**: Automated the end-to-end workflow of training and deploying machine learning models.  
+- **Highlights**:  
+  - Created reusable scripts to preprocess data, train models, and generate predictions.  
+  - Integrated tools like **Flask** and **Docker** for deployment.  
+  - Enhanced workflow efficiency for quick iterations.  
+- **[Explore the Repository](#)**  
 
-### 3. 📊 **Netflix Data Analysis**  
-- Analyzed Netflix data to uncover trends in content creation, user preferences, and viewership.  
-- Presented findings through an interactive dashboard using **Power BI**.  
+---
 
-### 4. 🚛 **Blinkit Dashboard**  
-- Built a real-time dashboard to analyze Blinkit delivery performance and user metrics.  
-- Used **SQL** for data extraction and **Tableau** for visualization.  
+### 📊 [Netflix Data Analysis](#)  
+- **Objective**: Analyzed Netflix’s extensive dataset to uncover trends in content creation, user preferences, and global viewership.  
+- **Highlights**:  
+  - Conducted exploratory data analysis (EDA) using **Python (pandas, matplotlib, seaborn)**.  
+  - Created a visually appealing dashboard in **Power BI** for decision-makers.  
+  - Identified content strategies that performed well across regions.  
+- **[Explore the Repository](#)**  
 
-... and many more! Explore my repositories to learn more.  
+---
+
+### 🚛 [Blinkit Dashboard Analysis](#)  
+- **Objective**: Built a dashboard to track and analyze Blinkit’s delivery performance and user metrics.  
+- **Highlights**:  
+  - Used **SQL** to extract and transform data from a relational database.  
+  - Visualized KPIs (delivery times, order volumes, user satisfaction) using **Tableau**.  
+  - Delivered actionable insights to optimize delivery operations.  
+- **[Explore the Repository](#)**  
+
+---
+
+### 📦 [More Projects](#)  
+Check out other exciting projects, such as:  
+- **[Sales Analysis with Tableau](#)**  
+- **[Customer Segmentation using K-Means](#)**  
+- **[Stock Price Prediction with LSTMs](#)**  
 
 ---
 
